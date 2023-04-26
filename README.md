@@ -18,7 +18,7 @@ const AboutMe = {
 ## Skills 🚀
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://systemlogs.fail">
     <img src="https://skillicons.dev/icons?i=bash,linux,kubernetes,docker,ansible,jenkins,openstack,aws,gcp,azure,cloudflare,grafana,raspberrypi,haskell,heroku,js,nodejs,css,html,discord,blender,tailwindcss,angular,react,nextjs,mysql,postgres,nginx,vscode,github,gitlab,git,vim,md,xd" />
   </a>
 </p>
