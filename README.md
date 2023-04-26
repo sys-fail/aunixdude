@@ -19,7 +19,7 @@ const AboutMe = {
 
 <p align="center">
   <a href="https://systemlogs.fail">
-    <img src="https://skillicons.dev/icons?i=bash,linux,kubernetes,docker,ansible,jenkins,openstack,aws,gcp,azure,cloudflare,grafana,raspberrypi,haskell,heroku,js,nodejs,css,html,discord,blender,tailwindcss,angular,react,nextjs,mysql,postgres,nginx,vscode,github,gitlab,git,vim,md,xd" />
+    <img src="https://skillicons.dev/icons?i=bash,linux,bsd,openbsd,kubernetes,docker,ansible,jenkins,openstack,aws,gcp,azure,cloudflare,grafana,raspberrypi,arduino,haskell,heroku,postman,django,js,nodejs,angular,react,nextjs,mysql,postgres,nginx,html,css,sass,tailwindcss,discord,bots,blender,vscode,github,gitlab,git,vim,md,xd" />
   </a>
 </p>
 
