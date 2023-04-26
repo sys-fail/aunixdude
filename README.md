@@ -11,7 +11,7 @@ const AboutMe = {
 }
 ```
 
-#### I’m a Linux Enthusiast ,SysAdmin, DevOps and Web Developer. 
+#### I’m a Linux Enthusiast, SysAdmin, DevOps and Web Developer. 
      
 ![yeye](https://media.discordapp.net/attachments/870569585772994631/1001429472760827984/1001000810483830847_1.gif)
 
